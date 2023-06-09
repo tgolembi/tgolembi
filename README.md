@@ -1,5 +1,6 @@
  - 👋 I’m Ton Golembiouski. 
- - 💞️ I am an Electrical Engineer and Node.js Developer.
+ - 💞️ I am an Electrical Engineer and Software Developer.
  - 👀 I’m interested in developing APIs envolving engineering, physics, mathematics..
- - 🌱 I develop APIs using Node.js, Express, MySQL, MongoDB, AWS.. 
+ - 🌱 I develop Software using C# .NET Core MVC SQL Azure and Azure DevOps.
+ - 🌱 I also know how to build APIs using Node.js & Express.
  - ⚡️ I have extensive knowledge and experience in developing APIs for Photovoltaic Systems platforms.
