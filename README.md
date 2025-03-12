@@ -1,5 +1,4 @@
  - 👋 I’m Ton Golembiouski. 
  - 💞️ I am a Electrical and Software Engineer.
- - 👀 I’m interested in developing APIs envolving engineering, physics, mathematics..
- - 🌱 I develop Software using mainly C# .NET.
- - ⚡️ I have extensive knowledge and experience in developing web systems for Photovoltaic Calculators and Port Processes and Logistics.
+ - 🌱 I know .Net(C#), Node.js(Javascript/Typescript) and Python.
+ - ⚡️ I know Azure Cloud and Google Cloud Platform.
