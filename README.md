@@ -1,5 +1,13 @@
- - 👋 I’m Ton Golembiouski. 
- - 💞️ I am a Electrical and Software Engineer/Developer.
- - ⚡️ C#.NET, WEbAPI, Blazor, git, DevOps, YAML, CI/CD, SQL Server/Oracle, Azure, Win/Linux.
- - 🌱 I also know GCP/Firebase, AWS, Node.js(Javascript/Typescript), Python and BashScripting.
- 
+# Ton Golembiouski
+
+**Software Engineer | AI-Assisted Software Development**
+
+I build software with a focus on **clean architecture, maintainability, automation, and scalable solutions**.
+
+- **Backend:** C#, .NET, REST APIs, SQL Server, Oracle
+- **Frontend:** Blazor, JavaScript and frameworks
+- **Cloud & DevOps:** Azure, Git, CI/CD, YAML, Docker
+- **AI Engineering:** AI-assisted development, agentic workflows, Spec-Driven Development (SDD)
+- **Also familiar with:** AWS, GCP, Firebase, Python, Bash, Linux
+
+📍 Brazil · Open to connecting with software engineering professionals all arround the world.
